@@ -1,0 +1,28 @@
+{
+  "name": "express-website",
+  "version": "1.0.0",
+  "description": "A Template For Express using nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/InsiderJanggo/express-website.git"
+  },
+  "keywords": [
+    "express",
+    "website",
+    "nodejs"
+  ],
+  "author": "InsiderJanggo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/InsiderJanggo/express-website/issues"
+  },
+  "homepage": "https://github.com/InsiderJanggo/express-website#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "http": "0.0.1-security"
+  }
+}
